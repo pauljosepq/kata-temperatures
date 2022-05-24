@@ -1,3 +1,4 @@
+import {Temperature, TemperatureScale} from './index'
 
 const temp1 = new Temperature(5, TemperatureScale.Celsius)
 const temp2 = new Temperature(6, TemperatureScale.Kelvin)
