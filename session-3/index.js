@@ -42,3 +42,8 @@ class Temperature {
         return `${this.number} ${this.scale}`
     }
 }
+
+module.exports = {
+    Temperature,
+    TemperatureScale
+}
