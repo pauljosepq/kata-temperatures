@@ -4,8 +4,8 @@
   "description": "To install node.js you will need to retrive binaries or installer depending on the platform.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "jest"
+    "start": "node session-2/index.js",
+    "test": "jest session-2/test.js"
   },
   "keywords": [],
   "author": "",

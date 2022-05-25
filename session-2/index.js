@@ -39,8 +39,13 @@ class Temperature {
     }
 
     ToString(){
-        
+
     }
 
 
+}
+
+module.exports = {
+    Temperature,
+    TemperatureScale
 }
